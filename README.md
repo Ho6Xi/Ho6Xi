@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ho6Xi
 - 👀 I’m interested in CSGO
-- 🌱 I’m currently learning everything I'm interested
-- 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me 844911902@qq.com
 
 <!---
